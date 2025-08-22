@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate Java Software Engineer, a Beginner Data Engineer, And sometimes Web Develpong and UI Designing. Here, you'll find a collection of my projects, contributions, and ideas.
+Welcome to my GitHub profile! I'm a passionate Java Software Engineer, a Beginner Data Engineer, And sometimes Web Developing and UI Designing. Here, you'll find a collection of my projects, contributions, and ideas.
 ## About Me
 
 - Currently Working on many Java Projects right now and currently learning Data Engineering at the same time.

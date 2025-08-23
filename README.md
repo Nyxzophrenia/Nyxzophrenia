@@ -7,6 +7,6 @@ Welcome to my GitHub profile! I'm a passionate Java Software Engineer, a Beginne
   ## My Programming Languages and other things i use
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,ae,c,react,cpp,java,py,figma,html,css,js&perline=6"/>
+   <img src="https://skillicons.dev/icons?i=mysql,ae,c,react,cpp,java,py&perline=6"/>
  </a>
 </p>

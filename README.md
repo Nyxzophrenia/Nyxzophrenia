@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate Java Software Engineer and Learning Data Engineer. Here, you'll find a collection of my projects, contributions, and ideas.
+Welcome to my GitHub profile! I'm a passionate Game Developer and sometimes i also do simple projects in my free time:DD. Here, you'll find a collection of my projects, contributions, and ideas.
 ## About Me
-
-- Currently Working on many Java Projects right now and currently learning Data Engineering at the same time.
-  ## My Programming Languages and other things i use
+  
+## My Programming Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,ae,c,java,py,cs&perline=3"/>
- </a>
+    <img src="https://skillicons.dev/icons?i=blender,cpp,c,python,cs&perline=5" />
+  </a>
 </p>

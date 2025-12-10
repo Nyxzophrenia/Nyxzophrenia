@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate Game Developer and sometimes i also do simple projects in my free time:DD. Here, you'll find a collection of my projects, contributions, and ideas.
+Welcome to my GitHub profile! I'm a passionate Game Developer and sometimes i also do simple projects on my free time:DD. Here, you'll find a collection of my projects, contributions, and ideas.
 ## About Me
   
 ## My Programming Languages and Tools

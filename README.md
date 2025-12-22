@@ -1,15 +1,17 @@
 ## About Me
 Hi, I’m RukaSSH 👋
 
-I’m a budding Game Developer passionate about C++ and Python. While I’m just getting started on GitHub, I love experimenting with game mechanics, creating prototypes, and learning new programming techniques.
+I’m a Game Developer with a focus on C++ and Python, passionate about building interactive experiences and exploring game mechanics. While I’m just beginning to share my work on GitHub, I’ve spent time learning, experimenting, and refining my skills in game development.
 
-Here, I’ll be sharing my game development projects, coding experiments, and ideas as I build them. Expect to see:
+On this profile, I plan to showcase:
 
-C++ projects: Game logic, small engines, and performance-focused experiments.
+C++ projects: Game engines, gameplay systems, and performance-focused experiments.
 
-Python projects: Game prototypes, AI features, and scripting tools.
+Python projects: Game prototypes, AI features, and automation tools.
 
-Game Dev experiments: Exploring 2D and 3D gameplay, physics, and interactive designs
+Game development experiments: 2D/3D gameplay, physics simulations, and interactive design.
+
+I’m committed to growing as a developer and sharing my journey in creating innovative, engaging games.
 
   
 ## My Programming Languages and Tools

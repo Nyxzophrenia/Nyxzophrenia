@@ -1,12 +1,20 @@
 ## About Me
-Ruka Dev here!
+Hi, I’m Ruka Dev! 👋
 
-Welcome to my GitHub profile! I'm a passionate Game Developer and sometimes i also do simple projects on my free time:DD. Here, you'll find a collection of my projects, contributions, and ideas.
+I’m a budding Game Developer passionate about C++ and Python. While I’m just getting started on GitHub, I love experimenting with game mechanics, creating prototypes, and learning new programming techniques.
+
+Here, I’ll be sharing my game development projects, coding experiments, and ideas as I build them. Expect to see:
+
+C++ projects: Game logic, small engines, and performance-focused experiments.
+
+Python projects: Game prototypes, AI features, and scripting tools.
+
+Game Dev experiments: Exploring 2D and 3D gameplay, physics, and interactive designs
 
   
 ## My Programming Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,cpp,c,python,cs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=blender,cpp,c,python,cs,godot,unreal&perline=7" />
   </a>
 </p>

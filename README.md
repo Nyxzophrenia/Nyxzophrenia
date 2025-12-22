@@ -1,5 +1,5 @@
 ## About Me
-Hi, I’m Ruka Dev! 👋
+Hi, I’m RukaSSH 👋
 
 I’m a budding Game Developer passionate about C++ and Python. While I’m just getting started on GitHub, I love experimenting with game mechanics, creating prototypes, and learning new programming techniques.
 

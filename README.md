@@ -1,4 +1,4 @@
-Game Developer | Currently Learning AI/ML
+Game Developer | Software Developer | Currently Learning AI/ML
 
   
 

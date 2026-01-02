@@ -1,4 +1,4 @@
-Game Developer | C++ & Python | Currently Learning AI/ML
+Game Developer | Currently Learning AI/ML
 
   
 
